@@ -45,22 +45,17 @@ Born from a **real-life case story**, it focuses on **clean design, smooth funct
 ## 📸 Screenshots  
 
 #### 🏠 Home Dashboard  
-![Home](assets/Screenshot-2025-08-16-151017.png)  
-
+  
 #### 👩‍💼 Worker Registration  
-![Worker Registration](assets/Screenshot-2025-08-16-150922.png)  
 
 #### 📋 Job Posting  
-![Job Posting](assets/Screenshot-2025-08-16-150655.png)  
 
 #### 💰 Salary Tracker  
-![Salary Tracker](assets/Screenshot-2025-08-16-150954.png)  
 
 #### 🔍 Worker Profile & Experience  
-![Worker Profile](assets/Screenshot-2025-08-16-150901.png)  
 
 #### 📊 Hot Topics & Features  
-![Hot Topics](assets/Screenshot-2025-08-16-150708.png)
+
 
 ## ✨ Motto  
 📌 **Always curious. Always learning. Always building.**  
