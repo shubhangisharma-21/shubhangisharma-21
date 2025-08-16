@@ -44,34 +44,23 @@ Born from a **real-life case story**, it focuses on **clean design, smooth funct
 
 ## 📸 Screenshots  
 
-<p align="center">
-  <a href="Screenshot-2025-08-16-151017.png">
-    <img src="Screenshot-2025-08-16-151017.png" width="45%" />
-  </a>
-  <a href="Screenshot-2025-08-16-150922.png">
-    <img src="Screenshot-2025-08-16-150922.png" width="45%" />
-  </a>
-</p>
+#### 🏠 Home Dashboard  
+![Home](assets/Screenshot-2025-08-16-151017.png)  
 
-<p align="center">
-  <a href="Screenshot-2025-08-16-150655.png">
-    <img src="Screenshot-2025-08-16-150655.png" width="45%" />
-  </a>
-  <a href="Screenshot-2025-08-16-150954.png">
-    <img src="Screenshot-2025-08-16-150954.png" width="45%" />
-  </a>
-</p>
+#### 👩‍💼 Worker Registration  
+![Worker Registration](assets/Screenshot-2025-08-16-150922.png)  
 
-<p align="center">
-  <a href="Screenshot-2025-08-16-150901.png">
-    <img src="Screenshot-2025-08-16-150901.png" width="45%" />
-  </a>
-  <a href="Screenshot-2025-08-16-150708.png">
-    <img src="Screenshot-2025-08-16-150708.png" width="45%" />
-  </a>
-</p>
+#### 📋 Job Posting  
+![Job Posting](assets/Screenshot-2025-08-16-150655.png)  
 
----
+#### 💰 Salary Tracker  
+![Salary Tracker](assets/Screenshot-2025-08-16-150954.png)  
+
+#### 🔍 Worker Profile & Experience  
+![Worker Profile](assets/Screenshot-2025-08-16-150901.png)  
+
+#### 📊 Hot Topics & Features  
+![Hot Topics](assets/Screenshot-2025-08-16-150708.png)
 
 ## ✨ Motto  
 📌 **Always curious. Always learning. Always building.**  
